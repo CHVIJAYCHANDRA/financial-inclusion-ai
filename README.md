@@ -6,7 +6,7 @@ Certainly! Here’s a `README.md` template for a GitHub repository, describing y
 
 ## Overview
 
-This AI-powered platform aims to foster financial inclusion for rural populations, specifically designed for individuals with limited financial literacy. Inspired by Lakshmi’s story—a rural widow looking to secure a future for her children by starting a dairy business—the platform offers financial empowerment tools, personalized advice, and mentorship, accessible in local languages and suited for various literacy levels. 
+This AI-powered platform aims to foster financial inclusion for rural populations, specifically designed for individuals with limited financial literacy. Inspired by Lakshmi’s story a rural widow looking to secure a future for her children by starting a dairy business the platform offers financial empowerment tools, personalized advice, and mentorship, accessible in local languages and suited for various literacy levels. 
 
 ## Problem Statement
 
